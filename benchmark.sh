@@ -1,0 +1,1 @@
+cat ./stats.txt
