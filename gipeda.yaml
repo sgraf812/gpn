@@ -1,1 +1,1 @@
-benchmarkScript: ./benchmark.sh
+benchmarkScript: cat ./stats.txt
