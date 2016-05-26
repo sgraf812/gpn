@@ -1,1 +1,6 @@
 benchmarkScript: cat ./stats.txt
+benchmarks:
+- match: "*"
+  smallerIsBetter: False
+  threshold: 1
+  type: small integral
