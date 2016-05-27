@@ -4,3 +4,8 @@ benchmarks:
   smallerIsBetter: False
   threshold: 1
   type: small integral
+- match: "ratio/*"
+  smallerIsBetter: True
+  threshold: 0.01
+  type: float
+
