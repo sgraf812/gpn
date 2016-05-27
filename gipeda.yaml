@@ -4,6 +4,10 @@ benchmarks:
   smallerIsBetter: False
   threshold: 1
   type: small integral
+- match: tweets
+  smallerIsBetter: False
+  threshold: 10
+  type: integral
 - match: "ratio/*"
   smallerIsBetter: True
   threshold: 0.01
