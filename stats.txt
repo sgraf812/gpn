@@ -1,5 +1,5 @@
-gulasch;12
-tschunk;2
+gulasch;17
+tschunk;7
 pony;0
 gnoblauch;0
-schlaf;2
+schlaf;4
