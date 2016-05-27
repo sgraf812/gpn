@@ -1,4 +1,4 @@
-benchmarkScript: cat ./stats.txt
+benchmarkScript: gpn-genstats
 benchmarks:
 - match: "*"
   smallerIsBetter: False
