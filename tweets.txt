@@ -576,3 +576,8 @@ da ist man auf einer hackerkonferenz und das film schauen scheitert daran, dass 
 die #gpn16 hat übrigens ganz hervorragende duschen :)) kann sich die #mrmcd16 gern ein scheibchen von abschneiden ;)
 lolnope #gpn16 https://t.co/kawcorxcwc
 wenn man "getwittert" statt "gewittert" liest, merkt man erst mal, wie viel zeit man bei twitter verbringt. die #gpn16 ist schuld! :d
+oh:
+a: @rustlang beschränkt einen zu sehr in seinem typsystem. das hat nicht mal higher-kinded types!
+b: du meinst extra-nette typen?
+#gpn16
+@pixiono  leider nicht, @gruenzeug ist auf der #gpn16 (richtig, juka?) und @franziskasemer und co. auf der #mfh16
