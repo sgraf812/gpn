@@ -815,3 +815,4 @@ mir wurde gerade ein usrp sdr vor die nase gesetzt. schade, dass die hfg besser 
 hrmpf! der geruch aus dem gulasch-zelt verursacht bei mir hunger. und nu? #gpn16
 das @micropoc und @eveundeve simulieren auf der #gpn16 deutsches hochgeschwindigkeitskupfer https://t.co/6j6t7qfa8f
 @coacx es regnet eh gleich. da könnt ihr euch den schlauch sparen. #gpn16
+"das #git-gewahre performance-dashboard gipeda" #gpn16
